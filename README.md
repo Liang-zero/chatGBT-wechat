@@ -46,6 +46,10 @@ Demo made by [Visionn](https://www.wangpc.cc/)
 
 >**2023.02.09：** 扫码登录存在账号限制风险，请谨慎使用，参考[#58](https://github.com/AutumnWhj/ChatGPT-wechat-bot/issues/158)
 
+>**2023.11.02：** 微信实时监听消息保存，增加微信消息推送api
+
+
+
 # 快速开始
 
 ## 准备
